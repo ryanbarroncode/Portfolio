@@ -384,7 +384,7 @@ fieldset[disabled] .btn-primary.active {
   background-color: white;
 }
 .btn {
-  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif, Helvetica;
   border: none;
   border-radius: 300px;
   font-weight: 700;
