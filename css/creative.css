@@ -42,6 +42,7 @@ p {
   line-height: 1.5;
   margin-bottom: 20px;
 }
+
 .bg-primary {
   background-color: #F05F40;
 }
@@ -146,6 +147,11 @@ aside {
     color: #F05F40;
   }
 }
+
+.list-skill{
+list-style: none;
+}
+
 header {
   position: relative;
   width: 100%;
@@ -397,6 +403,10 @@ fieldset[disabled] .btn-primary.active {
   color: white;
   text-shadow: none;
   background: #222222;
+}
+
+.skill-p{
+  color: rgb(198, 81, 24)
 }
 ::selection {
   color: white;
